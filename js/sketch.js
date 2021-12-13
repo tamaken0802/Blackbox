@@ -1,7 +1,9 @@
-function setup() { 
-    createCanvas(400, 400);
-  } 
-  
-  function draw() { 
-    background(220);
-  }
+function setup(){
+  // 描画領域のセットアップ
+  createCanvas(800, 500);  //サイズ: 800px × 500px
+  background(0);           //背景色: 黒
+}
+
+function draw(){
+  // 描画
+}
