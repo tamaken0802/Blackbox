@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "p5",
+			"path": "../../p5"
+		},
+		{
+			"name": "Blackbox",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
